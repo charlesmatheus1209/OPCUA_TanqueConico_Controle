@@ -48,7 +48,7 @@ class Plant:
         # Plant Params
         self.r1 = 1
         self.R1 = 2
-        self.H1 = 5
+        self.H1 = 2
         self.gama1 = 1
         self.qo1 = 0
 
@@ -60,7 +60,7 @@ class Plant:
 
         self.r3 = 1
         self.R3 = 2
-        self.H3 = 1
+        self.H3 = 2
         self.gama3 = 1
         self.qo3 = 0
 
